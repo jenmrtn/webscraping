@@ -13,6 +13,6 @@ bearer_token = 'AAAAAAAAAAAAAAAAAAAAAIu3mgEAAAAAC63cFFehwEFHXq%2BjbWJPtMlfoT8%3D
 sid='SK9dc17dc9c03e1d65c44adc3b6ff1c6ba'
 secret='yx0avmXl41k8NzqeNRIrCPNOYZSvJ2bw'
 
-account_sid='AC4b8c636be9aa090ec190e895426c852b'
+account_sid=''
 
-auth_token='c762f24fab70f809c4f22a828fffdd6d'
+auth_token=''
